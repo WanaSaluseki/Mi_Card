@@ -1,16 +1,5 @@
 # mi_card
 
-How to Build Beautiful UIs with Flutter Widgets
+How to build beautiful UIs with flutter widgets
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Me card screenshot 2022-07-29 200636](https://user-images.githubusercontent.com/95565650/181819037-7ef38ab7-b27b-4f8a-a250-2df3ccbd3633.png)
